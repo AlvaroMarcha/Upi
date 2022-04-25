@@ -1,0 +1,16 @@
+CONTENIDOS A IMPLEMENTAR:
+
+- Respecto a la educacion - Digitalizacion de las aulas
+- Implementacion de redes informaticas
+- Reparaciones de equipos informaticos
+- Mantenimientos
+- Servicios
+	- Mantenimiento de Webs
+	- Servicios Webs
+	- Hosting 
+
+
+IDEAS: 
+- Pequeñas descripciones y boton de "Saber más"
+- Realizar Slider con los botones de abajo (Cambiantes)
+- Nuestros clientes...
